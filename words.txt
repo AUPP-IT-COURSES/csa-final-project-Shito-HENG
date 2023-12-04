@@ -1,0 +1,5 @@
+PYTHON, A popular programming language.
+PROGRAMMING, The process of writing computer programs.
+DEVELOPMENT, The act of creating, maintaining, and improving software.
+GAMING, The activity of playing video games.
+COMPUTER, An electronic device that can perform various tasks.
